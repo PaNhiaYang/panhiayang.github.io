@@ -1,5 +1,6 @@
-.hero{
+body{
   background-image: url("https://backgroundcheckall.com/wp-content/uploads/2018/10/gradient-background-for-photoshop-2.jpg");
+  background-size: contain;
 }
 
 h1 {
