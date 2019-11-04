@@ -1,3 +1,12 @@
-body  {
-background: linear-gradient(to bottom, black 0%,black 50%,#000000 50%,white 50%,white 100%); 
-}
+.vertical-stripes {
+            border: solid 1px red;
+            background: linear-gradient( 
+            90deg,
+            #fff,
+            #fff 20px,
+            #000 20px,
+            #000 40px);
+            height: 200px;
+            width: 200px;
+        }
+    
