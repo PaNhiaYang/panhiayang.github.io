@@ -1,7 +1,3 @@
 body{
   background-image: linear-gradient(90deg, #f7ecef 25%, #980f0f 25%);
-  background-image: url('Pa_BW.jpg');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: center; 
 }
