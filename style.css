@@ -6,6 +6,11 @@ hr.style2 {
   border-top: 3px double black;
 }
 
+img { 
+  padding: 1px; 
+  border: 1 px solid black;
+}
+
 
 h1 { 
   font-size: 55px;
