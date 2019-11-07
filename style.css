@@ -2,9 +2,7 @@ body{
   background-image: linear-gradient(90deg, #b0e8e5 25%, #f4f4f4 25%);
 }
 
-img {
-  width: 50%;
-  height: auto;
+.hero {background-image: url("<blockquote class="imgur-embed-pub" lang="en" data-id="HHFQmrn"><a href="https://imgur.com/HHFQmrn">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>");
 }
 
 h1 { 
