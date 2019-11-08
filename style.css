@@ -2,7 +2,9 @@ div.a {
   text-align: left ; 
 }
 
-
+hr.style2 {
+  border-top: 3px double black;
+}
 
 img { 
   padding: 5px; 
