@@ -1,11 +1,8 @@
 div.a {
   text-align: left ; 
-   
 }
 
-hr.style2 {
-  border-top: 3px double black;
-}
+
 
 img { 
   padding: 5px; 
@@ -22,3 +19,4 @@ h2 {
   border: 2px solid #000000;
   border-radius: 23px;
 }
+
