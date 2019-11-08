@@ -1,8 +1,8 @@
-
+body { background-color: light grey;
+}
 
 div.a {
   text-align: left;
-  background-color: light grey;
 }
 
 hr.style2 {
