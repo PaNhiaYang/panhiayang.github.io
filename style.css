@@ -1,3 +1,7 @@
+body { 
+  background-color: coral;
+}
+
 div.a {
   text-align: left;
  }
