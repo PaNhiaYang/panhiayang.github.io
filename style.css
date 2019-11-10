@@ -1,6 +1,11 @@
-body { 
-  background-image: url ('https://www.larutadelsorigens.cat/wallpic/full/34-345725_luster-pink-marble-glitter-wallpaper-in-resolution-rose.jpg');
+.header {
+  padding: 60px;
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+  font-size: 30px;
 }
+
 
 div.a {
   text-align: left;
