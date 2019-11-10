@@ -3,7 +3,8 @@ body {
 }
 
 .header {
-  padding: 50px;
+  padding: 30px;
+  text-align: center;
   background: black;
   color: #D1a377;
 }
