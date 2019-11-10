@@ -25,4 +25,14 @@ h1 {
   letter-spacing: 30px;
 }
 
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: black;
+   color: #D1a377;
+   text-align: center;
+}
+
 
