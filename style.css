@@ -10,10 +10,10 @@ body {
 }
 
 .titles {
-  background-color: #D1a377;
-  color: black;
-  margin: 20px;
-  padding: 20px;
+  background-color: black;
+  color: #D1a377;
+  padding: 10px;
+}
 
 hr.style2 {
   border-top: 3px double black;
