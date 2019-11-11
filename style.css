@@ -9,6 +9,11 @@ body {
   color: #D1a377;
 }
 
+.titles {
+  background-color: #D1a377;
+  color: black;
+  margin: 20px;
+  padding: 20px;
 
 hr.style2 {
   border-top: 3px double black;
