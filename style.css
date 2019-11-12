@@ -10,8 +10,8 @@ body {
 }
 
 .titles {
-  background-color: black;
-  color: #D1a377;
+  background-color: #5F5D5F;
+  color: #B79CA5;
   padding: 5px; 
   letter-spacing: 15px;
 }
@@ -30,8 +30,8 @@ h1 {
    left: 0;
    bottom: 0;
    width: 100%;
-   background-color: black;
-   color: #D1a377;
+   background-color: #5F5D5F;
+   color: #B79CA5;
    text-align: center;
 }
 
