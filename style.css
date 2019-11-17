@@ -8,6 +8,7 @@ body {
   text-align: center;
   background: #990011FF;
   color: #FCF6F5FF;
+  border-radius:50%;
 }
 
 .titles {
@@ -16,10 +17,6 @@ body {
   padding: 5px; 
   letter-spacing: 15px;
   text-align: justify;
-}
-
-.picture {
-  border-radius: 50%;
 }
 
 h1 { 
