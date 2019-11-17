@@ -28,6 +28,7 @@ h1 {
 .footer {
    left: 0;
    bottom: 0;
+   height: 50%;
    width: 100%;
    background-color: #990011FF;
    color: #FCF6F5FF; 
