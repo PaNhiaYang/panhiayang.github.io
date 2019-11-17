@@ -18,6 +18,9 @@ body {
   text-align: justify;
 }
 
+.header {
+  border-radius: 50%;
+}
 
 h1 { 
   font-size: 75px;
