@@ -24,6 +24,10 @@ h1 {
   letter-spacing: 35px;
 }
 
+.float: left {
+  font-size: 20px;
+}
+
 .footer {
    left: 0;
    bottom: 0;
