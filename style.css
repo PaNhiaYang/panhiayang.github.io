@@ -6,7 +6,7 @@ body {
 .header {
   padding: 60px;
   text-align: center;
-  text-shadow: 2px 2px 8px black;
+  text-shadow: 3px 3px 9px black;
   background: #990011FF;
   color: #FCF6F5FF;
 }
