@@ -10,8 +10,6 @@ body {
   color: #FCF6F5FF;
 }
 
-
-
 .titles {
   background-color: #990011FF;
   color: #FCF6F5FF;
@@ -23,7 +21,7 @@ body {
 
 h1 { 
   font-size: 75px;
-  letter-spacing: 40px;
+  letter-spacing: 35px;
 }
 
 .icons {
