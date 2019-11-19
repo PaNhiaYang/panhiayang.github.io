@@ -29,6 +29,10 @@ h1 {
   text-align: center;
 }
 
+.profile {
+   padding:1px;
+   border:1px solid black;
+}
 
 ul.a {
   list-stype-type: circle;
